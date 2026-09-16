@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Email,phone,AddressID,CustomerSegment,RegistrationDate
+CUST0001,"Aarav Sharma",aarav.sharma@example.com,9876543210,ADDR023,"High Value",2022-01-15
+CUST0002,"Diya Patel",diya.patel@example.com,9876543211,ADDR041,"Frequent Shopper",2022-02-20
+CUST0003,"Vihaan Singh",vihaan.singh@example.com,9876543212,ADDR061,"New User",2024-11-10
+CUST0004,"Ananya Gupta",ananya.gupta@example.com,9876543213,ADDR024,"Frequent Shopper",2022-03-05
+CUST0005,"Advik Kumar",advik.kumar@example.com,9876543214,ADDR046,Lapsed,2022-04-12
+CUST0006,"Saanvi Reddy",saanvi.reddy@example.com,9876543215,ADDR045,"High Value",2022-05-18
+CUST0007,"Kabir Mehta",kabir.mehta@example.com,9876543216,ADDR037,"Frequent Shopper",2022-06-25
+CUST0008,"Myra Shah",myra.shah@example.com,9876543217,ADDR038,"New User",2025-01-02
+CUST0009,"Arjun Joshi",arjun.joshi@example.com,9876543218,ADDR022,"Frequent Shopper",2022-07-30
+CUST0010,"Zara Khan",zara.khan@example.com,9876543219,ADDR064,"High Value",2022-08-14
+CUST0011,"Riya Verma",riya.verma@example.com,9876543220,ADDR033,"Frequent Shopper",2023-01-20
+CUST0012,"Ishaan Agarwal",ishaan.a@example.com,9876543221,ADDR103,"High Value",2023-02-11
+CUST0013,"Kyra Mishra",kyra.mishra@example.com,9876543222,ADDR111,"New User",2025-03-15
+CUST0014,"Shaurya Nair",shaurya.nair@example.com,9876543223,ADDR149,Lapsed,2022-09-01
+CUST0015,"Aadhya Singh",aadhya.s@example.com,9876543224,ADDR152,"Frequent Shopper",2023-03-22
+CUST0016,"Reyansh Gupta",reyansh.g@example.com,9876543225,ADDR001,"High Value",2023-04-05
+CUST0017,"Anika Reddy",anika.reddy@example.com,9876543226,ADDR006,"New User",2025-05-01
+CUST0018,"Vivaan Kumar",vivaan.k@example.com,9876543227,ADDR010,"Frequent Shopper",2023-05-19
+CUST0019,"Kiara Sharma",kiara.sharma@example.com,9876543228,ADDR002,"High Value",2023-06-08
+CUST0020,"Ayaan Patel",ayaan.patel@example.com,9876543229,ADDR008,"Frequent Shopper",2023-07-14
+CUST0021,"Pari Jain",pari.jain@example.com,9876543230,ADDR009,Lapsed,2022-10-02
+CUST0022,"Neel Menon",neel.menon@example.com,9876543231,ADDR005,"High Value",2023-08-21
+CUST0023,"Siya Bose",siya.bose@example.com,9876543232,ADDR004,"New User",2025-06-10
+CUST0024,"Krish Iyer",krish.iyer@example.com,9876543233,ADDR076,"Frequent Shopper",2023-09-18
+CUST0025,"Anvi Desai",anvi.desai@example.com,9876543234,ADDR084,"High Value",2023-10-25
+CUST0026,"Atharv Chavan",atharv.c@example.com,9876543235,ADDR081,"Frequent Shopper",2023-11-11
+CUST0027,"Saanvi Pillai",saanvi.p@example.com,9876543236,ADDR075,"New User",2025-07-01
+CUST0028,"Arnav Rao",arnav.rao@example.com,9876543237,ADDR092,"High Value",2024-01-09
+CUST0029,"Navya Bhat",navya.bhat@example.com,9876543238,ADDR094,Lapsed,2022-11-30
+CUST0030,"Yash Mehta",yash.mehta@example.com,9876543239,ADDR108,"Frequent Shopper",2024-02-14
+CUST0031,"Aarohi Kumar",aarohi.k@example.com,9876543240,ADDR110,"High Value",2024-03-01
+CUST0032,"Zoya Singh",zoya.singh@example.com,9876543241,ADDR112,"New User",2025-07-05
+CUST0033,"Kabir Das",kabir.das@example.com,9876543242,ADDR118,"Frequent Shopper",2024-04-10
+CUST0034,"Ira Saxena",ira.saxena@example.com,9876543243,ADDR114,"High Value",2024-05-20
+CUST0035,"Dev Sharma",dev.sharma@example.com,9876543244,ADDR148,"Frequent Shopper",2024-06-15
+CUST0036,"Eva Ali",eva.ali@example.com,9876543245,ADDR156,Lapsed,2023-01-01
+CUST0037,"Rudra Pandey",rudra.p@example.com,9876543246,ADDR162,"High Value",2024-07-01
+CUST0038,"Myra Chaudhary",myra.c@example.com,9876543247,ADDR159,"New User",2025-07-10
+CUST0039,"Sai Joshi",sai.joshi@example.com,9876543248,ADDR153,"Frequent Shopper",2024-08-19
+CUST0040,"Tara Khanna",tara.khanna@example.com,9876543249,ADDR157,"High Value",2024-09-05
+CUST0041,"Arjun Reddy",arjun.r@example.com,9876543250,ADDR026,"Frequent Shopper",2022-03-10
+CUST0042,"Aditi Gupta",aditi.g@example.com,9876543251,ADDR032,"High Value",2022-04-15
+CUST0043,"Rohan Mehra",rohan.m@example.com,9876543252,ADDR042,"New User",2025-07-12
+CUST0044,"Khushi Singh",khushi.s@example.com,9876543253,ADDR052,Lapsed,2022-05-20
+CUST0045,"Aryan Sharma",aryan.s@example.com,9876543254,ADDR059,"Frequent Shopper",2022-06-25
+CUST0046,"Ishita Verma",ishita.v@example.com,9876543255,ADDR060,"High Value",2022-07-30
+CUST0047,"Dhruv Patel",dhruv.p@example.com,9876543256,ADDR082,"New User",2025-07-15
+CUST0048,"Anaya Kumar",anaya.k@example.com,9876543257,ADDR090,"Frequent Shopper",2022-08-14
+CUST0049,"Veer Singh",veer.s@example.com,9876543258,ADDR087,"High Value",2022-09-18
+CUST0050,"Samaira Khan",samaira.k@example.com,9876543259,ADDR088,"Frequent Shopper",2022-10-22

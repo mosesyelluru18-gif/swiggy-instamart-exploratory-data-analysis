@@ -1,0 +1,6 @@
+PaymentMethodID,PaymentMethodName
+PAY01,UPI
+PAY02,"Credit Card"
+PAY03,"Debit Card"
+PAY04,COD
+PAY05,Wallet

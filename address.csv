@@ -1,0 +1,201 @@
+AddressID,Pincode,StreetAddress,CityName,StateName
+ADDR001,400001,"12B, Marine Drive",Mumbai,Maharashtra
+ADDR002,110001,"45, Connaught Place","New Delhi",Delhi
+ADDR003,560001,"78, MG Road",Bengaluru,Karnataka
+ADDR004,700001,"21, Park Street",Kolkata,"West Bengal"
+ADDR005,600001,"10, T Nagar",Chennai,"Tamil Nadu"
+ADDR006,500001,"33, Banjara Hills",Hyderabad,Telangana
+ADDR007,411001,"5, FC Road",Pune,Maharashtra
+ADDR008,380001,"18, CG Road",Ahmedabad,Gujarat
+ADDR009,302001,"9, MI Road",Jaipur,Rajasthan
+ADDR010,226001,"14, Hazratganj",Lucknow,"Uttar Pradesh"
+ADDR011,400050,"201, Juhu Tara Road",Mumbai,Maharashtra
+ADDR012,110016,"Hauz Khas Village","New Delhi",Delhi
+ADDR013,560038,"Indiranagar 100 Feet Road",Bengaluru,Karnataka
+ADDR014,700016,"Ballygunge Circular Road",Kolkata,"West Bengal"
+ADDR015,600017,"Besant Nagar Beach Road",Chennai,"Tamil Nadu"
+ADDR016,500081,"Gachibowli Main Road",Hyderabad,Telangana
+ADDR017,411007,"Aundh IT Park",Pune,Maharashtra
+ADDR018,380015,"Satellite Road",Ahmedabad,Gujarat
+ADDR019,302004,C-Scheme,Jaipur,Rajasthan
+ADDR020,226010,"Gomti Nagar",Lucknow,"Uttar Pradesh"
+ADDR021,400053,"Andheri West",Mumbai,Maharashtra
+ADDR022,110048,"Greater Kailash 1","New Delhi",Delhi
+ADDR023,560078,"Koramangala 5th Block",Bengaluru,Karnataka
+ADDR024,700091,"Salt Lake City, Sector V",Kolkata,"West Bengal"
+ADDR025,600041,Adyar,Chennai,"Tamil Nadu"
+ADDR026,500034,"Jubilee Hills, Road No. 36",Hyderabad,Telangana
+ADDR027,411014,"Viman Nagar",Pune,Maharashtra
+ADDR028,382481,"Gandhinagar Infocity",Ahmedabad,Gujarat
+ADDR029,302017,"Vaishali Nagar",Jaipur,Rajasthan
+ADDR030,226016,"Indira Nagar",Lucknow,"Uttar Pradesh"
+ADDR031,400028,"Dadar TT Circle",Mumbai,Maharashtra
+ADDR032,110057,"Rajouri Garden","New Delhi",Delhi
+ADDR033,560011,"Jayanagar 4th Block",Bengaluru,Karnataka
+ADDR034,700020,Alipore,Kolkata,"West Bengal"
+ADDR035,600086,"Anna Nagar West",Chennai,"Tamil Nadu"
+ADDR036,500016,Begumpet,Hyderabad,Telangana
+ADDR037,411028,"Hinjewadi Phase 1",Pune,Maharashtra
+ADDR038,380054,Bodakdev,Ahmedabad,Gujarat
+ADDR039,302021,"Malviya Nagar",Jaipur,Rajasthan
+ADDR040,226002,Aliganj,Lucknow,"Uttar Pradesh"
+ADDR041,400076,"Powai Lake",Mumbai,Maharashtra
+ADDR042,110070,"Vasant Kunj","New Delhi",Delhi
+ADDR043,560043,Marathahalli,Bengaluru,Karnataka
+ADDR044,700156,"New Town, Action Area 1",Kolkata,"West Bengal"
+ADDR045,600020,Velachery,Chennai,"Tamil Nadu"
+ADDR046,500032,Madhapur,Hyderabad,Telangana
+ADDR047,411057,"Baner Road",Pune,Maharashtra
+ADDR048,380009,Navrangpura,Ahmedabad,Gujarat
+ADDR049,302015,"Tonk Road",Jaipur,Rajasthan
+ADDR050,226024,"Vikas Nagar",Lucknow,"Uttar Pradesh"
+ADDR051,400013,"Worli Sea Face",Mumbai,Maharashtra
+ADDR052,110008,"Karol Bagh","New Delhi",Delhi
+ADDR053,560025,Malleshwaram,Bengaluru,Karnataka
+ADDR054,700040,"Howrah AC Market",Kolkata,"West Bengal"
+ADDR055,600034,Nungambakkam,Chennai,"Tamil Nadu"
+ADDR056,500004,Khairatabad,Hyderabad,Telangana
+ADDR057,411038,Kothrud,Pune,Maharashtra
+ADDR058,380006,Shahibaug,Ahmedabad,Gujarat
+ADDR059,302006,"Raja Park",Jaipur,Rajasthan
+ADDR060,226004,Aminabad,Lucknow,"Uttar Pradesh"
+ADDR061,122002,"DLF Cyber City",Gurugram,Haryana
+ADDR062,122003,"Sector 29",Gurugram,Haryana
+ADDR063,122011,"Sohna Road",Gurugram,Haryana
+ADDR064,201301,"Sector 18",Noida,"Uttar Pradesh"
+ADDR065,201304,"Noida Expressway",Noida,"Uttar Pradesh"
+ADDR066,160017,"Sector 17",Chandigarh,Chandigarh
+ADDR067,160022,"Sector 22",Chandigarh,Chandigarh
+ADDR068,462001,"MP Nagar",Bhopal,"Madhya Pradesh"
+ADDR069,452001,"Vijay Nagar",Indore,"Madhya Pradesh"
+ADDR070,800001,"Fraser Road",Patna,Bihar
+ADDR071,834001,"Main Road",Ranchi,Jharkhand
+ADDR072,751001,"Bapuji Nagar",Bhubaneswar,Odisha
+ADDR073,781001,"Paltan Bazaar",Guwahati,Assam
+ADDR074,695001,"MG Road",Thiruvananthapuram,Kerala
+ADDR075,682011,Edapally,Kochi,Kerala
+ADDR076,641001,"RS Puram",Coimbatore,"Tamil Nadu"
+ADDR077,530001,"Jagadamba Centre",Visakhapatnam,"Andhra Pradesh"
+ADDR078,520001,"Besant Road",Vijayawada,"Andhra Pradesh"
+ADDR079,440001,Sitabuldi,Nagpur,Maharashtra
+ADDR080,422001,"College Road",Nashik,Maharashtra
+ADDR081,431001,CIDCO,"Chhatrapati Sambhajinagar",Maharashtra
+ADDR082,390001,Alkapuri,Vadodara,Gujarat
+ADDR083,360001,"Race Course Road",Rajkot,Gujarat
+ADDR084,395001,"Ghod Dod Road",Surat,Gujarat
+ADDR085,141001,"Feroze Gandhi Market",Ludhiana,Punjab
+ADDR086,143001,"Lawrence Road",Amritsar,Punjab
+ADDR087,248001,"Rajpur Road",Dehradun,Uttarakhand
+ADDR088,190001,"Lal Chowk",Srinagar,"Jammu and Kashmir"
+ADDR089,180001,"Gandhi Nagar",Jammu,"Jammu and Kashmir"
+ADDR090,171001,"The Mall Road",Shimla,"Himachal Pradesh"
+ADDR091,403001,"18th June Road",Panaji,Goa
+ADDR092,570001,"Devaraj Urs Road",Mysuru,Karnataka
+ADDR093,580029,Vidyanagar,Hubli,Karnataka
+ADDR094,575001,Hampankatta,Mangaluru,Karnataka
+ADDR095,673001,"Mavoor Road",Kozhikode,Kerala
+ADDR096,625001,"Anna Nagar",Madurai,"Tamil Nadu"
+ADDR097,620001,Cantonment,Tiruchirappalli,"Tamil Nadu"
+ADDR098,627001,"Trivandrum Road",Tirunelveli,"Tamil Nadu"
+ADDR099,632001,"Gandhi Nagar",Vellore,"Tamil Nadu"
+ADDR100,636001,"Fort Main Road",Salem,"Tamil Nadu"
+ADDR101,400063,"Borivali West",Mumbai,Maharashtra
+ADDR102,110092,"Preet Vihar","New Delhi",Delhi
+ADDR103,560066,Whitefield,Bengaluru,Karnataka
+ADDR104,700064,Behala,Kolkata,"West Bengal"
+ADDR105,600096,Medavakkam,Chennai,"Tamil Nadu"
+ADDR106,500072,Kukatpally,Hyderabad,Telangana
+ADDR107,411045,Wakad,Pune,Maharashtra
+ADDR108,380058,Thaltej,Ahmedabad,Gujarat
+ADDR109,302020,Jhotwara,Jaipur,Rajasthan
+ADDR110,226022,Chinhat,Lucknow,"Uttar Pradesh"
+ADDR111,122018,"Golf Course Extension",Gurugram,Haryana
+ADDR112,201307,"Sector 62",Noida,"Uttar Pradesh"
+ADDR113,160036,"Sector 35",Chandigarh,Chandigarh
+ADDR114,462023,"Arera Colony",Bhopal,"Madhya Pradesh"
+ADDR115,452010,"AB Road",Indore,"Madhya Pradesh"
+ADDR116,800004,Kankarbagh,Patna,Bihar
+ADDR117,834002,"Ashok Nagar",Ranchi,Jharkhand
+ADDR118,751007,Patia,Bhubaneswar,Odisha
+ADDR119,781006,"Six Mile",Guwahati,Assam
+ADDR120,695004,Pattom,Thiruvananthapuram,Kerala
+ADDR121,682017,Kakkanad,Kochi,Kerala
+ADDR122,641004,"Saibaba Colony",Coimbatore,"Tamil Nadu"
+ADDR123,530003,"MVP Colony",Visakhapatnam,"Andhra Pradesh"
+ADDR124,520008,Gollapudi,Vijayawada,"Andhra Pradesh"
+ADDR125,440010,Ramdaspeth,Nagpur,Maharashtra
+ADDR126,422005,"Gangapur Road",Nashik,Maharashtra
+ADDR127,431005,Osmanpura,"Chhatrapati Sambhajinagar",Maharashtra
+ADDR128,390007,Manjalpur,Vadodara,Gujarat
+ADDR129,360005,"Kalawad Road",Rajkot,Gujarat
+ADDR130,395007,Adajan,Surat,Gujarat
+ADDR131,141002,"Model Town",Ludhiana,Punjab
+ADDR132,143006,"Ranjit Avenue",Amritsar,Punjab
+ADDR133,248006,"Clement Town",Dehradun,Uttarakhand
+ADDR134,190004,Rajbagh,Srinagar,"Jammu and Kashmir"
+ADDR135,180004,"Trikuta Nagar",Jammu,"Jammu and Kashmir"
+ADDR136,171003,"Chotta Shimla",Shimla,"Himachal Pradesh"
+ADDR137,403101,Calangute,Goa,Goa
+ADDR138,570023,"Siddhartha Nagar",Mysuru,Karnataka
+ADDR139,580023,Keshwapur,Hubli,Karnataka
+ADDR140,575003,Kadri,Mangaluru,Karnataka
+ADDR141,673004,"Medical College",Kozhikode,Kerala
+ADDR142,625020,"K K Nagar",Madurai,"Tamil Nadu"
+ADDR143,620017,Srirangam,Tiruchirappalli,"Tamil Nadu"
+ADDR144,627005,Palayamkottai,Tirunelveli,"Tamil Nadu"
+ADDR145,632006,Katpadi,Vellore,"Tamil Nadu"
+ADDR146,636007,Omalur,Salem,"Tamil Nadu"
+ADDR147,400080,"Ghatkopar East",Mumbai,Maharashtra
+ADDR148,110034,Pitampura,"New Delhi",Delhi
+ADDR149,560034,"BTM Layout",Bengaluru,Karnataka
+ADDR150,700029,Tollygunge,Kolkata,"West Bengal"
+ADDR151,600119,Porur,Chennai,"Tamil Nadu"
+ADDR152,500049,Secunderabad,Hyderabad,Telangana
+ADDR153,411052,Pashan,Pune,Maharashtra
+ADDR154,380061,Sola,Ahmedabad,Gujarat
+ADDR155,302012,Mansarovar,Jaipur,Rajasthan
+ADDR156,226007,Mahanagar,Lucknow,"Uttar Pradesh"
+ADDR157,122009,"Sector 56",Gurugram,Haryana
+ADDR158,201309,"Greater Noida West",Noida,"Uttar Pradesh"
+ADDR159,160047,"Sector 47",Chandigarh,Chandigarh
+ADDR160,462016,"Kolar Road",Bhopal,"Madhya Pradesh"
+ADDR161,452014,Rau,Indore,"Madhya Pradesh"
+ADDR162,800020,"Boring Road",Patna,Bihar
+ADDR163,834008,"Harmu Housing Colony",Ranchi,Jharkhand
+ADDR164,751013,Khandagiri,Bhubaneswar,Odisha
+ADDR165,781022,Maligaon,Guwahati,Assam
+ADDR166,695010,Kowdiar,Thiruvananthapuram,Kerala
+ADDR167,682030,Thrippunithura,Kochi,Kerala
+ADDR168,641015,Peelamedu,Coimbatore,"Tamil Nadu"
+ADDR169,530017,Seethammadhara,Visakhapatnam,"Andhra Pradesh"
+ADDR170,520010,"Benz Circle",Vijayawada,"Andhra Pradesh"
+ADDR171,440022,"Wardhaman Nagar",Nagpur,Maharashtra
+ADDR172,422009,"Indira Nagar",Nashik,Maharashtra
+ADDR173,431003,"Satara Parisar","Chhatrapati Sambhajinagar",Maharashtra
+ADDR174,390023,Gotri,Vadodara,Gujarat
+ADDR175,360004,"University Road",Rajkot,Gujarat
+ADDR176,395009,Piplod,Surat,Gujarat
+ADDR177,141012,Dugri,Ludhiana,Punjab
+ADDR178,143004,Chheharta,Amritsar,Punjab
+ADDR179,248007,"Mussoorie Road",Dehradun,Uttarakhand
+ADDR180,190008,Soura,Srinagar,"Jammu and Kashmir"
+ADDR181,180006,"Channi Himmat",Jammu,"Jammu and Kashmir"
+ADDR182,171009,Sanjauli,Shimla,"Himachal Pradesh"
+ADDR183,403507,"Vasco da Gama",Goa,Goa
+ADDR184,570008,Kuvempunagar,Mysuru,Karnataka
+ADDR185,580031,"Gokul Road",Hubli,Karnataka
+ADDR186,575002,Lalbagh,Mangaluru,Karnataka
+ADDR187,673009,Feroke,Kozhikode,Kerala
+ADDR188,625009,Simmakkal,Madurai,"Tamil Nadu"
+ADDR189,620002,"Thillai Nagar",Tiruchirappalli,"Tamil Nadu"
+ADDR190,627007,Vannarpettai,Tirunelveli,"Tamil Nadu"
+ADDR191,632009,Thorapadi,Vellore,"Tamil Nadu"
+ADDR192,636004,Hasthampatti,Salem,"Tamil Nadu"
+ADDR193,400092,"Kandivali East",Mumbai,Maharashtra
+ADDR194,110085,"Rohini Sector 11","New Delhi",Delhi
+ADDR195,560102,"Electronic City",Bengaluru,Karnataka
+ADDR196,700107,Rajarhat,Kolkata,"West Bengal"
+ADDR197,600044,Chromepet,Chennai,"Tamil Nadu"
+ADDR198,500084,Miyapur,Hyderabad,Telangana
+ADDR199,411041,"Pimple Saudagar",Pune,Maharashtra
+ADDR200,380059,Gota,Ahmedabad,Gujarat

@@ -1,0 +1,51 @@
+SupplierID,SupplierName,ContactEmail
+SUP001,"HUL Distributors",contact@huldist.com
+SUP002,"P&G Supplies",sales@pgsupplies.in
+SUP003,"ITC Logistics",support@itclog.co.in
+SUP004,"Amul Dairy Co.",orders@amul.com
+SUP005,"Britannia Industries",b2b@britannia.co.in
+SUP006,"Nestle India Partners",partner@nestle.in
+SUP007,"Parle Agro",sales@parleagro.com
+SUP008,"Coca-Cola Beverages",supply@coke.co.in
+SUP009,"PepsiCo India",orders@pepsico.in
+SUP010,"Adani Wilmar",contact@adaniwilmar.com
+SUP011,"Patanjali Ayurved",distributor@patanjali.com
+SUP012,"Dabur India",sales@dabur.com
+SUP013,"Marico Ltd",supply@marico.com
+SUP014,"Godrej Consumer Products",b2b@godrejcp.com
+SUP015,"Tata Consumer Products",tcp.orders@tata.com
+SUP016,"Local Farm Produce",fresh@localfarm.in
+SUP017,"Organic India",sales@organicindia.com
+SUP018,"McCain Foods India",frozen@mccain.co.in
+SUP019,"Haldirams Snacks",orders@haldirams.com
+SUP020,"Balaji Wafers",contact@balajiwafers.com
+SUP021,"MDH Spices",spices@mdh.co.in
+SUP022,"Everest Spices",contact@everestspices.com
+SUP023,"Ashirvaad Mills",atta@ashirvaad.com
+SUP024,"India Gate Foods",rice@indiagate.com
+SUP025,"Kelloggs India",sales@kelloggs.com
+SUP026,"Cadbury India",orders@cadbury.in
+SUP027,Colgate-Palmolive,b2b@colpal.com
+SUP028,"Johnson & Johnson",orders@jnj.in
+SUP029,"Reckitt Benckiser",supply@rb.com
+SUP030,"SC Johnson",contact@scjohnson.com
+SUP031,"Mother Dairy",sales@motherdairy.com
+SUP032,"iD Fresh Food",orders@idfresh.in
+SUP033,"Sunfeast Biscuits",biscuits@itc.in
+SUP034,"Lays India",snacks@pepsico.in
+SUP035,"Kurkure Snacks",kurkure@pepsico.in
+SUP036,"Maggi Foods",maggi@nestle.in
+SUP037,"Kissan Foods",kissan@hul.co.in
+SUP038,"Tropicana Juices",juice@pepsico.in
+SUP039,"Real Juices",real@dabur.com
+SUP040,"Saffola Oils",saffola@marico.com
+SUP041,"Fortune Oils",fortune@adaniwilmar.com
+SUP042,"Tata Salt",salt@tata.com
+SUP043,"Surf Excel",surf@hul.co.in
+SUP044,"Vim Dishwash",vim@hul.co.in
+SUP045,"Lizol Cleaners",lizol@rb.com
+SUP046,"Harpic Cleaners",harpic@rb.com
+SUP047,"Pampers India",pampers@pg.com
+SUP048,"Pedigree Petfoods",orders@pedigree.in
+SUP049,"Fresh Vegetables Co-op",veg@freshcoop.in
+SUP050,"National Fruit Growers",fruits@nfg.org.in
